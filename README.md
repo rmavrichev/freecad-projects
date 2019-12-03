@@ -1,5 +1,5 @@
 # freecad-projects
-An open access projects made in freecad (cc-by-nc-sa 4.0)
+An open access projects made in [freecad](https://www.freecadweb.org/?lang=ru) (cc-by-nc-sa 4.0)
 
 
 * Very small 2.3mx4m bathhouse built from profiled wood beams (15x15cm).
