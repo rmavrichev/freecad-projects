@@ -8,4 +8,4 @@ Not so small 135m2 1Fl. one-family house
 
 ![GitHub Logo](3d_south2.png)
 ![GitHub Logo](3d_north2.png)
-![GitHub Logo](plan_v8.png.png)
+![GitHub Logo](plan_v8.png)
