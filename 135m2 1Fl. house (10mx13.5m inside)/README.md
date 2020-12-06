@@ -6,4 +6,6 @@ More comfortable, more room space. More XPS in the external wall for energy savi
 
 ![GitHub Logo](3d_south2.png)
 ![GitHub Logo](3d_north2.png)
-![GitHub Logo](plan_v8.png)
+![GitHub Logo](plan_v8_1.png)
+![GitHub Logo](mansard_optional.png)
+
