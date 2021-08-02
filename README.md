@@ -8,5 +8,5 @@ An open access projects made in [freecad](https://www.freecadweb.org/?lang=ru) (
 
 * Very small 2.3mx4m bathhouse built from profiled wood beams (15x15cm).
 ![plot](/bathhouse_wood_2300x4000/small_bathhouse_built_from_wood.png)
-![plot](/bathhouse_wood_2300x4000/bathhouse_wood_2300x4000/final.jpg)
+![plot](/bathhouse_wood_2300x4000/final.jpg)
 ![Project file](house_ytong_8500x9500/small_bathhouse_built_from_wood.FCStd)
