@@ -6,9 +6,9 @@ An open access projects made in [freecad](https://www.freecadweb.org/?lang=ru) (
 An open access project made with freecad v0.19 (cc-by-nc-sa 4.0)
 
 Var.#1
-![plot](/103 m2_1ft_floor_with_mansard/f3d_1.png)
-![plot](/103 m2_1ft_floor_with_mansard/f3d_2.png)
-![Project file](/103 m2_1ft_floor_with_mansard/2bedr_dev_140222_mod5.FCStd)
+![plot](/103%20m2_1ft_floor_with_mansard/f3d_1.png)
+![plot](/103%20m2_1ft_floor_with_mansard/f3d_2.png)
+![Project file](/103%20m2_1ft_floor_with_mansard/2bedr_dev_140222_mod5.FCStd)
 
 Var.#2
 ![plot](./103 m2_1ft_floor_with_mansard/ne2-3d.png)
