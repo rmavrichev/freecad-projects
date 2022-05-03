@@ -3,6 +3,10 @@ An open access project made with [freecad](https://www.freecadweb.org/?lang=ru) 
 
 * 1.5 floor family house built from keramick blocks like "Poroterm 38".
 
-![plot](./sweet_home_3d-1.png)
-![plot](./sweet_home_3d-2.png)
+![plot](./1.jpg)
+![plot](./2.jpg)
+![plot](./3.jpg)
+![plot](./4.jpg)
+![plot](./5.jpg)
+
 ![Project file](./040522_90m2_one_floor_w_mansard.FCStd)
