@@ -1,6 +1,10 @@
 # freecad-projects
 An open access projects made in [freecad](https://www.freecadweb.org/?lang=ru) (cc-by-nc-sa 4.0)
 
+1.5 floor house (~90m2 1st floor), under construction
+![plot](/sweethome/photo_2024-05-30_16-40-44.jpg)
+![plot](/sweethome/20241006_165853.jpg) 
+
 
 1.5 floor house (103m2 1st floor)
 An open access project made with freecad v0.19 (cc-by-nc-sa 4.0)
