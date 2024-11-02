@@ -10,6 +10,9 @@ house built from D400 400mm blocks
 ![plot](./photo_2024-05-30_16-40-44_3.jpg)
 ![plot](./photo_2024-05-30_16-40-44_4.jpg)
 
+![plot](./pl1.png)
+![plot](./fl2.png)
+
 ![plot](./20241006_165447.jpg)
 ![plot](./20241006_165509.jpg)
 ![plot](./20241006_165533.jpg)
