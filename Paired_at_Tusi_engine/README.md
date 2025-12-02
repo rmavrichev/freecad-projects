@@ -4,7 +4,7 @@ An open access project made with [freecad](https://www.freecadweb.org/?lang=ru) 
 Latest updates see at [REAA forum](https://reaa.ru/threads/sdvoyennyi-bshm-s-paroi-at-tusi-i-zubchatym-zatsepleniyem.114513/post-2264082)
 
 "RusYoke" project - Crankless Engine mechanics
-Video also available at [YouTube](https://youtu.be/UqaibIIgE-4)
+Video also available at [YouTube](https://www.youtube.com/watch?v=yXwV5SfdrLw)
 
 ![plot](./pic01.png)
 ![plot](./pic02.jpg)
