@@ -1,7 +1,7 @@
 # "Crankless engine based on Sedunov design" project - Crankless Engine mechanics
 An open access project made with [freecad](https://www.freecadweb.org/?lang=ru) v0.21.2 for free use (cc-by-nc-sa 4.0)
 
-Latest updates see at [REAA forum]([https://reaa.ru/threads/besshatunnnyye-dvigateli-3.110868/post-2306030](https://reaa.ru/threads/modelirovaniye-besshatunnogo-silovogo-mekhanizma-dvs-na-osnove-konstruktsii-sedunova-i-p.116371/post-2306584))
+Latest updates see at [REAA forum](https://reaa.ru/threads/modelirovaniye-besshatunnogo-silovogo-mekhanizma-dvs-na-osnove-konstruktsii-sedunova-i-p.116371/post-2306584)
 
 Video also available at RuTube:
 
